@@ -12,3 +12,7 @@ A detailed descriptive repository for every JS beginner. It will include the fol
 .
 .
 Many more to come
+
+#Objects
+
+Objects are datatype that can contain several different datatypes encapsulated inside them.
